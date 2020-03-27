@@ -24,6 +24,6 @@ Demo
 - kernel checks for new output in 0.2s intervals, which might cause a delay in forwarding
 - syntax highlighting based on Java
 
-#### Special Thanks
+### Special Thanks
 [Paul Kupper](https://github.com/pkupper) for suggesting the use of byte streams
 
